@@ -79,8 +79,10 @@ I enjoy exchanging ideas, mentoring, documenting solutions, and sharing practica
 
 ### 📫 Let's Connect
 
-- 💼 LinkedIn: www.linkedin.com/in/rohinwangnoo1985
-- 🐙 GitHub:(https://github.com/ROMI272015)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohinwangnoo1985/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/ROMI272015)
+
 
 ---
 
