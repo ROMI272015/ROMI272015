@@ -3,9 +3,7 @@
 ### Telecom & RAN Engineer | Cloud & DevOps | Platform Engineering | AI & Automation
 
 I'm an engineer passionate about connecting **Telecommunications, Cloud Computing, DevOps, and Artificial Intelligence** to solve real-world engineering challenges.
-
 My professional background is rooted in **Radio Access Networks (RAN)**, working across 4G LTE, 5G NR, and Cloud RAN technologies. Alongside telecom engineering, I'm continuously exploring modern software practices, cloud-native architectures, infrastructure automation, and AI-driven solutions.
-
 I enjoy understanding complex systems, automating repetitive tasks, experimenting with emerging technologies, and turning technical ideas into practical, reusable solutions.
 
 ## 🚀 What I Do & What I'm Exploring
@@ -16,47 +14,16 @@ I enjoy understanding complex systems, automating repetitive tasks, experimentin
 - 🤖 **AI & Agentic Engineering:** AI agents, multi-agent orchestration, reusable AI skills, KIRO, and AI-assisted engineering workflows.
 - 🔧 **Engineering Automation:** Building tools and intelligent workflows that simplify complex tasks and improve productivity.
 
-## 🧰 Technology Landscape
+## 🧭 My Engineering Focus
+Area	Experience & Focus
+📡 Telecom & RAN Engineering	Professional experience across 4G LTE, 5G NR, Cloud RAN, RAN diagnostics, and troubleshooting.
+💻 Programming & Scripting	Hands-on experience with Python, Shell scripting, Linux, and command-line tools.
+☁️ Cloud & Infrastructure	Exploring cloud architecture, cloud-native technologies, scalable infrastructure, and containerization.
+⚙️ DevOps & Platform Engineering	Building knowledge and practical experience in automation, CI/CD, infrastructure management, and modern DevOps practices.
+🤖 AI & Agentic Engineering	Actively experimenting with AI agents, multi-agent orchestration, reusable AI skills, KIRO, and AI-assisted engineering workflows.
 
-**Telecommunications**
-- 4G LTE | 5G NR | Cloud RAN | RAN Diagnostics | L2/L3 Traces
+My approach: Build on strong engineering fundamentals, continuously expand technical capabilities, and apply emerging technologies to solve practical problems.
 
-**Cloud & Infrastructure**
-- Cloud Architecture | Cloud-Native Technologies | Containers | Kubernetes
-
-**DevOps & Automation**
-- CI/CD | Infrastructure as Code | Linux | Git | Python | Shell Scripting
-
-**AI & Intelligent Systems**
-- Generative AI | AI Agents | Agent Orchestration | Reusable AI Skills | KIRO
-
-## 🤖 Bringing AI into Engineering
-
-I'm particularly interested in making AI useful beyond simple experimentation.
-
-Some areas I'm actively exploring:
-
-- AI-assisted log analysis, trace identification, and troubleshooting.
-- Intelligent analysis of RAN signaling flows and technical diagnostics.
-- Designing reusable AI skills for specialized engineering tasks.
-- Connecting individual AI skills through agents and multi-agent workflows.
-- Applying AI to DevOps, automation, and engineering operations.
-- Measuring real productivity improvements through practical AI adoption.
-
-My focus is on building **reliable, reusable, and practical AI solutions** that address actual engineering problems.
-
-## 🌱 Continuous Learning
-
-Technology never stands still, and neither should we.
-
-I'm continuously learning, experimenting, and developing my understanding of:
-
-- Cloud-native architecture and infrastructure.
-- Kubernetes and container orchestration.
-- DevOps automation and Platform Engineering.
-- Infrastructure as Code and CI/CD practices.
-- Agentic AI and intelligent workflow orchestration.
-- AI-powered Telecom and RAN engineering.
 
 ## 🤝 Let's Build Something Together
 
@@ -72,7 +39,6 @@ Open to collaboration on:
 ## 💡 Beyond the Code
 
 I believe the best engineers are not just problem solvers. They are also curious learners, knowledge sharers, and people who help others grow.
-
 I enjoy exchanging ideas, mentoring, documenting solutions, and sharing practical knowledge with the engineering community.
 
 ---
