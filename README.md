@@ -1,5 +1,7 @@
 # Hey, I'm Rohin! 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=false&vCenter=true&width=800&lines=Telecom+%26+RAN+Engineer;Cloud+%26+DevOps+Enthusiast;Platform+Engineering+Explorer;AI+%26+Automation+Practitioner;Building+Intelligent+Engineering+Solutions;Always+Learning.+Always+Building.)](https://git.io/typing-svg)
+
 ### Telecom & RAN Engineer | Cloud & DevOps | Platform Engineering | AI & Automation
 
 I'm an engineer passionate about connecting **Telecommunications, Cloud Computing, DevOps, and Artificial Intelligence** to solve real-world engineering challenges.
